@@ -132,6 +132,8 @@ The dataset collected from Yahoo Finance demonstrates **high overall data qualit
 * Machine learning applications
 <img width="855" height="374" alt="image" src="https://github.com/user-attachments/assets/214519c5-166c-490e-92bf-decd53f79823" />
 <img width="830" height="374" alt="image" src="https://github.com/user-attachments/assets/8c513cf7-44ca-4038-870e-4151b6ef1f0e" />
+<img width="835" height="374" alt="image" src="https://github.com/user-attachments/assets/5a81d2fe-9840-47d7-82be-560bc73a565f" />
+
 
 
 
