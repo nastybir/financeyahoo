@@ -130,5 +130,7 @@ The dataset collected from Yahoo Finance demonstrates **high overall data qualit
 * Time-series forecasting
 * Financial modeling
 * Machine learning applications
+<img width="855" height="374" alt="image" src="https://github.com/user-attachments/assets/214519c5-166c-490e-92bf-decd53f79823" />
+
 
 
